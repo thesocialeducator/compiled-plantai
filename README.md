@@ -271,4 +271,26 @@ MIT License — See LICENSE file
 
 ---
 
+## 🛠️ Maintenance & Mirroring
+
+To push updates from the local repository to the new GitHub origin:
+
+1. **Set the Remote (if not already set):**
+   ```bash
+   git remote set-url origin https://github.com/thesocialeducator/compiled-plantai.git
+   ```
+
+2. **Stage and Commit Changes:**
+   ```bash
+   git add .
+   git commit -m "Update message"
+   ```
+
+3. **Push to GitHub:**
+   ```bash
+   git push origin main
+   ```
+
+---
+
 **Made with 🌾 for farmers who think ahead.**
