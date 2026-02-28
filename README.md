@@ -1,4 +1,4 @@
-# Farm.ai — Agricultural Intelligence Platform
+# PlantAI — Compiled Intelligence Platform
 
 > **Know your land before you plant a single seed.**
 
@@ -109,8 +109,8 @@ farm-ai/
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/farm-ai.git
-cd farm-ai
+git clone https://github.com/thesocialeducator/compiled-plantai.git
+cd compiled-plantai
 
 # Frontend
 cd plantai
